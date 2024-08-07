@@ -1,0 +1,15 @@
+[2024-08-07 14:00:54] Autenticação OK
+[2024-08-07 14:00:54] Autenticação OK
+[2024-08-07 14:02:01] test_cadastro_vendedor: NOTOK - Vendedor.__init__() missing 1 required positional argument: 'tipocomissao'
+[2024-08-07 14:03:32] Autenticação OK
+[2024-08-07 14:03:32] Autenticação OK
+[2024-08-07 14:10:06] Autenticação OK
+[2024-08-07 14:10:06] Autenticação OK
+[2024-08-07 14:12:47] test_cadastro_vendedor: OK
+[2024-08-07 14:21:42] Autenticação OK
+[2024-08-07 14:21:42] Autenticação OK
+[2024-08-07 14:24:08] Autenticação OK
+[2024-08-07 14:24:08] Autenticação OK
+[2024-08-07 14:25:07] test_cadastro_vendedor: NOTOK - 'WebDriver' object has no attribute 'driver'
+[2024-08-07 14:27:27] Autenticação OK
+[2024-08-07 14:27:27] Autenticação OK
